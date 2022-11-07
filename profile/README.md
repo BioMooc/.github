@@ -1,4 +1,4 @@
-# This is the repos from BiMooc
+# This is the repos from BioMooc
 
 We are a group sharing bioinfomatics resources, like R, Python, C/C++
 
